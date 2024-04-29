@@ -1,0 +1,5 @@
+﻿main.obj : error LNK2005: WINDOW_WIDTH déjà défini(e) dans input.obj
+main.obj : error LNK2005: WINDOW_HEIGHT déjà défini(e) dans input.obj
+main.obj : error LNK2005: GRID_SIZE déjà défini(e) dans input.obj
+main.obj : error LNK2005: GAME_SPEED déjà défini(e) dans input.obj
+C:\Users\lguillemart\source\repos\Partiel aled\x64\Debug\Partiel aled.exe : fatal error LNK1169: un ou plusieurs symboles définis à différentes reprises ont été rencontrés
